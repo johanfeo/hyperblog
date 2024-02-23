@@ -4,9 +4,11 @@ body
     text-align: center;
     font-family: "Arial";
 }
-#container
+#cabecera
 {
+    background: #81A;
     width: 70%;
     padding: 1em;
     margin: 0 auto;
+    color: white;
 }
