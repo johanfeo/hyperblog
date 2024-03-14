@@ -1,12 +1,20 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(36, 58, 153);
+=======
+    color: rgb(225, 238, 108);
+>>>>>>> cabecera
     text-align: center;
     font-family: "Courier";
 }
 #cabecera
 {
+<<<<<<< HEAD
     background: #81B;
+=======
+    background: rgb(158, 29, 36);
+>>>>>>> cabecera
     width: 70%;
     padding: 1em;
     margin: 0 auto;
