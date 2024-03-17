@@ -1,14 +1,22 @@
 body
 {
-    color: rgb(225, 238, 108);
+    color: rgb(10, 10, 10);
     text-align: center;
     font-family: "Courier";
+    margin: 0;
+    padding: 0;
 }
 #cabecera
 {
-    background: rgb(158, 29, 36);
-    width: 70%;
+    background: rgb(83, 64, 64);
+    width: 40%;
     padding: 1em;
     margin: 0 auto;
     color: white;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
